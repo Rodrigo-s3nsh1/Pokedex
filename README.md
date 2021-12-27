@@ -20,5 +20,8 @@ pip install requests
 ## Pokédex normal (text mode)
 <img src="imagens/gif_poke.gif">
 
+## Technology
+<img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
+
 ___
 _Created By me (Rodrigo-s3nsh1)_
