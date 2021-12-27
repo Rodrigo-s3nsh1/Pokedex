@@ -20,7 +20,7 @@ pip install requests
 ## Pokédex normal (text mode)
 <img src="imagens/gif_poke.gif"/>
 
-## Technology
+## technologies used
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
 
 ___
