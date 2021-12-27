@@ -15,10 +15,10 @@ Type the following commands into the terminal:
 pip install requests
 ```
 ## Pokédex interface ( Very simple interface )
-<img src="imagens/gif_gui.gif">
+<img src="imagens/gif_gui.gif"/>
 
 ## Pokédex normal (text mode)
-<img src="imagens/gif_poke.gif">
+<img src="imagens/gif_poke.gif"/>
 
 ## Technology
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
