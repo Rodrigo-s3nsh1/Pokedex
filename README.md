@@ -24,4 +24,3 @@ pip install requests
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
 
 ___
-_Created By me Rodrigo J. s3nsh1_
