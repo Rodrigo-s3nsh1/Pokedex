@@ -4,10 +4,10 @@ from os import system as syst
 
 
 def infos(poke):
-	name = poke['name']
-	type = poke['types'][0]['type']['name']
+    name = poke['name']
+    type = poke['types'][0]['type']['name']
 	
-	ab_num = 1
+    ab_num = 1
 	
 	print('\n\033[91m╭─━━━━━━━━━━━━━━━━━━━━━━━━─╮\033[m')
 	print(f'  \033[32mName:\033[m {name.capitalize()}\t\033[32mType:\033[m {type}')

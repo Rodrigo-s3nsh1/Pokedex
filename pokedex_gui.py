@@ -35,10 +35,10 @@ sg.change_look_and_feel('SystemDefault')
 
 def main():
 	layout = [
-			[sg.Input(size=(22, 2), key='name'), sg.Button('Search', size=(4,1), key='pesquisar', font=('Arial', 10, 'normal', 'bold'), button_color='#B22222')],
-			[sg.Image(key='pokemon_image', background_color='#B22222'), sg.Text(text_color="white", font=("Monospace", 10, "bold", "bold"), background_color='#B22222', key='pokemon_name'),sg.Text(text_color="white", font=("Monospace", 10, "bold", "bold"), background_color='#B22222', key='pokemon_type')],
-			[sg.Multiline(size=(50, 7), key='OUT')]
-		]
+		[sg.Input(size=(22, 2), key='name'), sg.Button('Search', size=(4,1), key='pesquisar', font=('Arial', 10, 'normal', 'bold'), button_color='#B22222')],
+		[sg.Image(key='pokemon_image', background_color='#B22222'), sg.Text(text_color="white", font=("Monospace", 10, "bold", "bold"), background_color='#B22222', key='pokemon_name'),sg.Text(text_color="white", font=("Monospace", 10, "bold", "bold"), background_color='#B22222', key='pokemon_type')],
+		[sg.Multiline(size=(50, 7), key='OUT')]
+	]
 		
 	global window
 	window = sg.Window('Pokédex', layout=layout, element_justification='c', size=(800, 600), background_color='#B22222', margins=(0, 0))
